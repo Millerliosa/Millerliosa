@@ -1,4 +1,4 @@
-<h2>🌟 Hola, soy Millely – Desarrolladora de Software 🌟</h2>
+<h2>🌟 Hola, soy Millerly – Desarrolladora de Software 🌟</h2>
 
 <img align="right" height="250" src="https://media.tenor.com/t9pwGPO3TpoAAAAM/apt.gif" />
 
